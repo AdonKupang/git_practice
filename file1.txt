@@ -1,1 +1,3 @@
-test buat file 1
+Test buat file 1
+
+Ini file awal
